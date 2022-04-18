@@ -1,4 +1,4 @@
-# FAST
+# CoreNet
 > Phase encode deep neural network for complex wavefront shaping through multi-core fibers
 > 
 > Updated April 2022
