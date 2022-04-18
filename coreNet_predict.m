@@ -2,7 +2,7 @@ clearvars -except dlnet;
 close all;
 clc
 
-if ~exist('dlnet','vars')
+if ~exist('dlnet','var')
     load coreNet.mat
 end
 
@@ -33,7 +33,7 @@ Hlim(541-vlim:540+vlim,961-ulim:960+ulim) = H(541-vlim:540+vlim,961-ulim:960+uli
 H = fftshift(Hlim);
 
 %% Prediction
-X = imread('./images/logo/smile_face_1080.png');
+X = imread('./test_images/logo/smile_face_1080.png');
 % X = rgb2gray(X);
 % X = imresize(X,[1080 1920]);
 X = single(X);
