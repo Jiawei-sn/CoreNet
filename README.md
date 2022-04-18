@@ -7,7 +7,6 @@
 * [General Info](#general-information)
 * [Download DNN](#download-dnn)
 * [How to use](#how-to-use)
-* [Setup](#setup)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -31,13 +30,7 @@
 4. Copy the ""coreNet.mat" to the folder where you store the code or the matlab path
 5. Add the "CoreNet-main" and its subfloders to your Matlab path
 6. Run the "coreNet_predict.m"
-- Note: the phase reconstruction for the intrinsic phase distortion can take a very long time on a normal laptop, plase be patient.
-
-
-## Setup
-- "Main.m" Main code for the reconstruction
-- "prop.m" Numerical propagation function
-- "tiltPhase" Generate a tilted phase image for wavefront correction
+- Note: The network highly demands GPU computation power (NVIDIA RTX A6000 is recommended)
 
 
 ## Contact
