@@ -15,7 +15,7 @@
 - The Matlab code can generate holograms for complex wavefront shaping through a multi-core fiber bundle.
 - The deep neural network is pre-trained with MNIST dataset and can be used directly.
 - You can read our paper for detailed information [1]. Please cite our paper if you used this code for publication.
-- [1] Sun J, Wu J, Koukourakis N, et al. Lensless multicore-fiber microendoscope for real-time tailored light field generation with phase encoder neural network (CoreNet)[J]. arXiv preprint arXiv:2111.12758, 2021.
+- [1] Sun J, Wu J, Koukourakis N, et al. Real-time complex light field generation through a multi-core fiber with deep learning[J]. Scientific reports, 2022, 12(1): 1-10. https://www.nature.com/articles/s41598-022-11803-7
 
 ## Download DNN
 - The pre-trained CoreNet can be downloaded at
