@@ -10,6 +10,8 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
+![Structure of the phase encoder deep neural network (CoreNet).](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-11803-7/MediaObjects/41598_2022_11803_Fig1_HTML.png?as=webp)
+
 
 ## General Information
 - The Matlab code can generate holograms for complex wavefront shaping through a multi-core fiber bundle.
